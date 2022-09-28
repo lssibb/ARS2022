@@ -1,5 +1,5 @@
 # ARS2022
-Arseniy Prokhorov
+Arseniy Prokhorov  
 *Имеются*  
   -Морзе.ру    
   -Перевод n-ичную систему счисления.py  

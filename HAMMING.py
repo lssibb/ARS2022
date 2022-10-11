@@ -8,7 +8,7 @@ print(haming_spisok)
 
 def distance(x, y):
     k = 7
-    for i in range(1, 7):
+    for i in range(7):
         if x % 10 == y % 10:
             k = k - 1
             x = x // 10
@@ -19,7 +19,7 @@ def distance(x, y):
 code = int(input("code= "))
 min=distance(code,int(haming_spisok[0]))
 imin = 0
-for i in range(0, 9):
+for i in range(10):
     D = distance(code, int(haming_spisok[i]))
     print(D)
     if D < min:

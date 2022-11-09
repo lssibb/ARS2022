@@ -17,4 +17,4 @@ A \vee (A \wedge B)
 $$sin(\alpha-\beta)=sin\alpha cos\beta -sin\beta cos\alpha$$ 
 $$tg(\alpha -\beta)=\frac{tg\alpha-tg\beta}{1+tg\alpha tg\beta}$$ 
 $$cos2\alpha = cos^{2}-sin^{2}=2cos^{2}-1=1-2sin^{2}$$ 
-$$ \bar{E_{1}^{2}}=\sqrt{\frac{Fa^{x-1}}{(x-1)*x}}+\alpha^{\frac{1}{3}}_{1}+\beta_{2}^{\frac{2}{3}}$$ 
+$$\bar{E_{1}^{2}}=\sqrt{\frac{Fa^{x-1}}{(x-1)*x}}+\alpha^{\frac{1}{3}}_{1}+\beta_{2}^{\frac{2}{3}}$$ 

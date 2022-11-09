@@ -11,9 +11,11 @@ Arseniy Prokhorov
   -Перевод из n-ичной системы 
   -Логика ТАБЛИЦА 1  
    
-  -PYTHON BULALG 
-![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/114455833/200458409-04114dbb-2929-4c78-9026-a2de3b80b06a.png)
-A \vee (A \wedge B)
+  -PYTHON BULALG.py 
+  
+![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/114455833/200458409-04114dbb-2929-4c78-9026-a2de3b80b06a.png) 
+
+A \vee (A \wedge B) 
 $$sin(\alpha-\beta)=sin\alpha cos\beta -sin\beta cos\alpha$$ 
 $$tg(\alpha -\beta)=\frac{tg\alpha-tg\beta}{1+tg\alpha tg\beta}$$ 
 $$cos2\alpha = cos^{2}-sin^{2}=2cos^{2}-1=1-2sin^{2}$$ 

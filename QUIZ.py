@@ -9,4 +9,5 @@ for i in range (len(a)):
         count+=1
     else:
         print('Неправильно')
+print("Количество правильных ответов")
 print(count)

@@ -26,7 +26,7 @@ $$cos2\alpha = cos^{2}-sin^{2}=2cos^{2}-1=1-2sin^{2}$$
 $$\bar{\mathrm{E}_{1}^{2}} = \sqrt{\frac{F a^{x-1}}{(x-1)x}} + \mathrm{\alpha}_{1}^{\frac{1}{3}} +\mathrm{\beta}_{2}^{\frac{2}{3}}$$  
 QUIZ.py - викторина  
 ```graph TD;
-    A-->B;
+    A-->B; 
     A-->C;
     B-->D;
-    C-->D;```
+    C-->D; ```

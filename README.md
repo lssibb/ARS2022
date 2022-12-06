@@ -24,4 +24,26 @@ $$tg(\alpha -\beta)=\frac{tg\alpha-tg\beta}{1+tg\alpha tg\beta}$$
 $$cos2\alpha = cos^{2}-sin^{2}=2cos^{2}-1=1-2sin^{2}$$ 
  
 $$\bar{\mathrm{E}_{1}^{2}} = \sqrt{\frac{F a^{x-1}}{(x-1)x}} + \mathrm{\alpha}_{1}^{\frac{1}{3}} +\mathrm{\beta}_{2}^{\frac{2}{3}}$$  
-QUIZ.py - викторина
+QUIZ.py - викторина 
+<style>
+.button_1670292550244 {
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #eaeaea !important;
+    color: #ff0000 !important;
+    border: 31px solid #006089 !important;
+    border-radius: 100px !important;
+    font-size: 16px !important;
+    padding: 59px 41px !important; 
+    transition: all 2.0s ease !important;
+}
+.button_1670292550244:hover{
+    text-decoration: none !important; 
+    background-color: #006089 !important;
+    color: #ffeded !important;
+    border-color: #99bdcb !important;
+}
+</style>
+<a href="https://github.com/lssibb" class="button_1670292550244" target="_blank">
+  ДОМОЙ
+</a>

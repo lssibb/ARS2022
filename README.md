@@ -10,7 +10,7 @@ Arseniy Prokhorov
   -Таблица умножения Эксель и py  
   -Перевод из n-ичной системы .py
   -Логика ТАБЛИЦА 1 .xlsx
-   
+   Питон файл с 5 функциями:морзе,
   -PYTHON BULALG.py 
   
 ![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/114455833/200458409-04114dbb-2929-4c78-9026-a2de3b80b06a.png) 

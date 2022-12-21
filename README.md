@@ -40,5 +40,6 @@ C -->|выгнали|J(Попытка пересдачи)
 J -->| |C{ЕГЭ}
 ```
 ![image](https://user-images.githubusercontent.com/114455833/208801931-6194bc33-5ebb-456f-b6fd-536cd73819a3.png)
+![resheniye5](https://user-images.githubusercontent.com/114455833/208807834-3c4c15b4-b2cd-49fa-8bbf-1903a7dc506e.png)
 
 

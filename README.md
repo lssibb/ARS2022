@@ -39,5 +39,6 @@ E -->|плохо|H(Приключения)
 C -->|выгнали|J(Попытка пересдачи)
 J -->| |C{ЕГЭ}
 ```
-https://user-images.githubusercontent.com/114457017/208572312-7608f8b1-6282-479c-9afa-a5316b127df6.png
+![image](https://user-images.githubusercontent.com/114455833/208801931-6194bc33-5ebb-456f-b6fd-536cd73819a3.png)
+
 

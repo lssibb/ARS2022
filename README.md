@@ -23,10 +23,10 @@ $$tg(\alpha -\beta)=\frac{tg\alpha-tg\beta}{1+tg\alpha tg\beta}$$
 
 $$cos2\alpha = cos^{2}-sin^{2}=2cos^{2}-1=1-2sin^{2}$$ 
  
-$$\bar{\mathrm{E}_{1}^{2}} = \sqrt{\frac{F a^{x-1}}{(x-1)x}} + \mathrm{\alpha}_{1}^{\frac{1}{3}} +\mathrm{\beta}_{2}^{\frac{2}{3}}$$  
+$$\bar{\mathrm{E}_{1}^{2}}=\sqrt{\frac{F a^{x-1}}{(x-1)x}}+\mathrm{\alpha}_{1}^{\frac{1}{3}}+\mathrm{\beta}_{2}^{\frac{2}{3}}$$  
 QUIZ.py - викторина  
 ```mermaid
-flowchart LR
+flowchart LR 
 
 A[10класс] -->|экзамен| B(11 класс)
 B --> C{ЕГЭ}

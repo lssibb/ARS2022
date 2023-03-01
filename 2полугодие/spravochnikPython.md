@@ -1,6 +1,6 @@
-print()  
-If условие:  
-else условие:  
+print() 
+If условие: 
+else условие: 
 elif условие 
 int() 
 str() 
@@ -15,7 +15,7 @@ with open('file.name') as f:
 .readline 
 .split('') 
 .count() 
-.append()  
+.append() 
 def   
 break 
 product 

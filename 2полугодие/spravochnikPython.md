@@ -6,7 +6,7 @@ int()
 str() 
 max() 
 min() 
-.replace('','') 
+.replace('','')  
 .pop(x) 
 .sort(reverse=True) 
 for i in range (x): 
@@ -16,7 +16,7 @@ with open('file.name') as f:
 .split('') 
 .count() 
 .append() 
-def   
+def 
 break 
 product 
 continue  
